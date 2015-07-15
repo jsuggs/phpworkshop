@@ -1,0 +1,10 @@
+{
+    "name": "jsuggs/phpworkshop",
+    "description": "Basic setup for the php testing workshop",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "mockery/mockery": "~0.9",
+        "phpunit/phpunit": "~4.7"
+    }
+}
